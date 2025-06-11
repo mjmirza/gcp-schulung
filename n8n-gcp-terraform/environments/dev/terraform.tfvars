@@ -1,0 +1,14 @@
+project_id = "your-project-id"
+region = "us-central1"
+zone = "us-central1-a"
+n8n_instance_name = "n8n-instance"
+n8n_service_account_name = "n8n-service-account"
+n8n_db_name = "n8n-db"
+n8n_db_user = "n8n-user"
+n8n_db_password = "your-db-password"
+n8n_bucket_name = "n8n-bucket"
+n8n_image = "n8nio/n8n"
+n8n_version = "latest"
+n8n_port = 5678
+enable_ssl = true
+ssl_certificate_name = "n8n-ssl-cert"
